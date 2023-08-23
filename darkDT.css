@@ -1,0 +1,45 @@
+/**
+ * @name dakuDT.
+ * @description darkDT
+ * @author caelum.
+ * @version 1.0.0
+*/
+
+@import url('https://mwittrien.github.io/BetterDiscordAddons/Themes/DiscordRecolor/DiscordRecolor.css');
+
+:root {
+  --accentcolor: 114,137,218;
+  --accentcolor2: 255,115,250;
+  --linkcolor: 0,176,244;
+  --mentioncolor: 250,166,26;
+  --textbrightest: 255,255,255;
+  --textbrighter: 222,222,222;
+  --textbright: 185,185,185;
+  --textdark: 140,140,140;
+  --textdarker: 115,115,115;
+  --textdarkest: 80,80,80;
+  --font: gg sans;
+  --backgroundaccent: 58,60,61;
+  --backgroundprimary: 30,32,33;
+  --backgroundsecondary: 26,28,29;
+  --backgroundsecondaryalt: 18,19,20;
+  --backgroundtertiary: 22,23,24;
+  --backgroundfloating: 27,27,27;
+  --settingsicons: 1;
+}
+
+/* Any custom CSS below here */
+/*Home Button*/
+
+.homeIcon-r0w4ny path {fill: transparent}
+
+.homeIcon-r0w4ny {
+
+background: url('https://media.giphy.com/media/4ilFRqgbzbx4c/source.gif') center/cover no-repeat;
+
+min-width: 60px;
+
+min-height: 60px;
+
+}
+
